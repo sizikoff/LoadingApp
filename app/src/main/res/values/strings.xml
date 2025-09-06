@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoadingApp</string>
+        <string name="year_progress_tracker">Year Progress Tracker</string>
+        <string name="loading_progress">Loading progress...</string>
+        <string name="app_description">Отслеживание прогресса текущего года в реальном времени.\nУведомления каждый 1% и при смене года.</string>
+        <string name="real_time_updates">⚡ Обновление в реальном времени</string>
+        <string name="clock_animation">Clock animation</string>
+</resources>
