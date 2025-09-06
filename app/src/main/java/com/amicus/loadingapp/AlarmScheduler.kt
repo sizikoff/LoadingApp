@@ -23,6 +23,8 @@ class AlarmScheduler(private val context: Context) {
             }
         }
 
+        //какая то функция
+
         // Планируем уведомления для каждого процента (1-100%)
         for (percent in 1..100) {
             scheduleProgressNotification(year, percent)
