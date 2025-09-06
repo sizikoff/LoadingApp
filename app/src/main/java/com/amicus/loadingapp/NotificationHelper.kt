@@ -29,6 +29,7 @@ object NotificationHelper {
             notificationManager.notify(progressPercent, notification)
         } catch (e: SecurityException) {
             // Разрешение на уведомления не получено
+            NotificationReceiver
         }
     }
 
